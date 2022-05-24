@@ -1,1 +1,1 @@
-# Methods-of-Compression-and-Performance-Improvement-of-Deep-Neural-Networks
+# Methods of Compression and Performance Improvement of Deep Neural Networks
